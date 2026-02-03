@@ -33,8 +33,8 @@ Piyush Sharma
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/yourusername/college-event-management-system.git
-   cd college-event-management-system
+   git clone https://github.com/aaryanbudakoti/EVENTX.git
+   cd EVENTX
 2. **Create and activate a virtual environment (recommended):**
    - On Windows:
      ```bash
